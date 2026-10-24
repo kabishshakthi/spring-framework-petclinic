@@ -664,26 +664,4 @@
     </snapshotRepository>
 </distributionManagement>
 
-settings.xml
-
-<settings>
-        <servers>
-        <server>
-            <id>nexus-releases</id>
-            <username>admin</username>
-            <password>admin@123</password>
-        </server>
-
-        <server>
-            <id>nexus-snapshots</id>
-            <username>admin</username>
-            <password>admin@123</password>
-        </server>
-    </servers>
-
-</settings>
-
-
-
-
 </project>
